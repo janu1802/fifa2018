@@ -106,6 +106,6 @@ ggplot(all_rating, aes(Country, overall_zscore)) +
 
 #Brazil is the clear favourite with 1.94 overall z-score followed by Germany with a score of 1.79
 
-#Semi-finalist: Brazil, Germnay, France & Spain
-#Finalist: Brazil & Germany
+#Semi-finalist: Brazil, France, Spain & Belgium
+#Finalist: Brazil & France
 #Winners: Brazil
